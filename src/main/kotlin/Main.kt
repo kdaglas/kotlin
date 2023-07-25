@@ -1,0 +1,15 @@
+fun main(args: Array<String>) {
+    println("------------------------")
+    quadraticEquation()
+    println("------------------------")
+    timeCovered()
+    println("------------------------")
+    chosenRestaurant()
+    chosenRestaurant2()
+    println("------------------------")
+    cubicEquation()
+    println("------------------------")
+    alternativeRoute()
+    alternativeRoute2()
+    println("------------------------")
+}
